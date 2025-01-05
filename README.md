@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi, I'm Marcel 👋
+
+I'm a passionate **Software Engineer** and I **develop**, **operate**, and **secure** cloud-native backend services.
+
+---
+
+`Software Engineering` | `DevOps` | `Cloud-native` | `Serverless` | `REST APIs` | `TypeScript` | `Node.js` | `Infrastructure as Code` | `Terraform` | `NoSQL Databases` | `Docker` | `Cloud Computing` | `AWS` | `Lambda` | `DynamoDB` | `SNS` | `SQS` | `S3` | `CloudFront` | `CloudWatch`
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/marcelfrey29/) | [XING](https://www.xing.com/profile/Marcel_Frey30) | [Instagram](https://www.instagram.com/marcel.frey29/)
 
 <!--
 **marcelfrey29/marcelfrey29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
